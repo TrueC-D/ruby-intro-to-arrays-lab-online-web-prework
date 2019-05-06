@@ -9,8 +9,8 @@ def array_with_two_elements
 end
 
 def first_element
-  array = [1, 2, 3, 4, 5]
-  array[0]
+  @taylor_swift = ["Welcome to New York", "Blank Space", "Style", "Out of The Woods"]
+  @taylor_swift.firt
 end
 
 def third_element

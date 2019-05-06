@@ -9,7 +9,7 @@ def array_with_two_elements
 end
 
 def first_element (array)
-  my_first_element = array.first
+  my_first_element = array[0]
 end
 
 def third_element (array)
@@ -17,15 +17,15 @@ def third_element (array)
 end
 
 def last_element (array)
-  my_last_element = array.last
+  my_last_element = array[-1]
 end
 
 def first_element_with_array_methods
-  
+  my_first_element = array.first
 end
 
 def last_element_with_array_methods
-  
+  my_last_element = array.last
 end
 
 def length_of_array

@@ -21,11 +21,11 @@ def last_element (array)
 end
 
 def first_element_with_array_methods
-  my_first_element = array.first
+  first_country = array.first
 end
 
 def last_element_with_array_methods
-  my_last_element = array.last
+  last_country = array.last
 end
 
 def length_of_array
